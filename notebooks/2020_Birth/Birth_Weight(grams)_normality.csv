@@ -1,0 +1,6 @@
+Test,Statistic,P-Value,Normal?
+D'Agostino-Pearson,12385.4789,0.000000,NO
+Shapiro-Wilk,0.9846,0.000000,NO
+Kolmogorov-Smirnov,0.0365,0.000000,NO
+Skewness Test,-63.8612,0.000000,NO
+Kurtosis Test,91.1440,0.000000,NO
