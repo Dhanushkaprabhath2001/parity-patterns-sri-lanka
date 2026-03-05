@@ -1,0 +1,7 @@
+Outlier Type,Count,Percentage,Description
+False Positives,260,0.10%,Statistical outliers but medically normal
+Medical Only,40718,15.18%,Medically abnormal but not statistical outliers
+True Outliers,2481,0.93%,Both statistical and medical outliers
+Extreme Low,2257,0.84%,Very low birth weight (<1500g)
+Extreme High,56,0.02%,Very high birth weight (≥5000g)
+Implausible,18,0.01%,Biologically impossible values
