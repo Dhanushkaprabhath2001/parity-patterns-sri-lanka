@@ -1,0 +1,6 @@
+Method,Outliers Count,Percentage
+IQR (1.5x),6522,2.43%
+Extreme IQR (3x),262,0.10%
+Z-score (>3),2741,1.02%
+Modified Z-score,2361,0.88%
+Consensus,2741,1.02%
