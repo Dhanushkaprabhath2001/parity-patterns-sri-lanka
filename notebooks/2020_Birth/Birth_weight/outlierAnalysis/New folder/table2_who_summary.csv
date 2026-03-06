@@ -1,0 +1,9 @@
+medical_category,risk_level,Count,Mean (g),Min (g),Max (g),Statistical Outliers
+Extreme Macrosomia,Very High,14,5567.5,5510.0,5850.0,14
+Extremely Low Birth Weight (ELBW),Critical,331,847.5,620.0,995.0,331
+Low Birth Weight (LBW),High,40641,2222.4,1500.0,2499.0,0
+Macrosomia (High Birth Weight),Moderate,227,4650.4,4500.0,4985.0,227
+Normal Birth Weight,Low,224971,3057.9,2500.0,4495.0,260
+Not Biologically Plausible,Error,18,6334.6,6000.0,7740.0,18
+Severe Macrosomia,High,42,5162.2,5000.0,5490.0,42
+Very Low Birth Weight (VLBW),Very High,1926,1265.8,1000.0,1496.0,1849
