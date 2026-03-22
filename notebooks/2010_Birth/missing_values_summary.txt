@@ -1,0 +1,30 @@
+================================================================================
+MISSING VALUES ANALYSIS SUMMARY (IUPAC Compliant)
+Generated: 2026-03-22 06:41:23
+================================================================================
+
+Dataset Overview:
+  • Total rows: 363,881
+  • Total columns: 18
+  • Columns with missing data: 4
+  • Total missing values: 409,674
+  • Overall missing percentage: 6.25%
+
+Top 10 Variables with Most Missing Data:
+  1. Multiple_Birth_Status: 363,824 (100.0%)
+  2. Birth_Weight(grams): 45,303 (12.4%)
+  3. Race_of_Father: 531 (0.1%)
+  4. Birth_Order: 16 (0.0%)
+  5. Registered_Month2.0: 0 (0.0%)
+  6. Registered_Year: 0 (0.0%)
+  7. Registered_Month: 0 (0.0%)
+  8. Registered_District_2.0: 0 (0.0%)
+  9. Registered_District: 0 (0.0%)
+  10. Birh_Year: 0 (0.0%)
+
+================================================================================
+Files Generated:
+  1. 01_missing_values.xlsx - Detailed Excel report with formatting
+  2. 01_missing_values_analysis.docx - Comprehensive Word report
+  3. missing_values_figure.png - IUPAC compliant visualization
+  4. missing_values_summary.txt - This summary file
