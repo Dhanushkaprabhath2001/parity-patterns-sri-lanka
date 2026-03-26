@@ -1,0 +1,20 @@
+2026-03-24 03:43:18,286 - INFO - ============================================================
+2026-03-24 03:43:18,287 - INFO - Starting Maternal Age Analysis
+2026-03-24 03:43:18,288 - INFO - ============================================================
+2026-03-24 03:43:18,289 - INFO - Loading data from: ..\..\..\..\..\data\raw\2010_Birth_Final.xlsx
+2026-03-24 03:44:11,070 - INFO - Successfully loaded 363,881 records
+2026-03-24 03:44:11,085 - WARNING - Column 'Mother_Age' not found
+2026-03-24 03:44:11,086 - INFO - Using alternate column: 'Age of Mother'
+2026-03-24 03:44:11,088 - INFO - Valid age records: 363,881
+2026-03-24 03:44:11,178 - INFO - Statistics calculated: Mean=28.5, Median=28.0, IQR=8.0
+2026-03-24 03:44:23,704 - INFO - Distribution plot saved: distribution_mother_age.png
+2026-03-24 03:44:24,631 - INFO - Comparative plots saved: comparative_analysis.png
+2026-03-24 03:44:57,855 - INFO - Report exported to: mother_age_analysis_report.xlsx
+2026-03-24 04:02:44,027 - INFO - ============================================================
+2026-03-24 04:02:44,029 - INFO - Starting IUPAC-Compliant Maternal Age Analysis
+2026-03-24 04:02:44,031 - INFO - ============================================================
+2026-03-24 04:02:44,033 - INFO - Loading data from: ..\..\..\..\..\data\raw\2010_Birth_Final.xlsx
+2026-03-24 04:03:54,113 - INFO - Successfully loaded 363,881 records
+2026-03-24 04:03:54,114 - INFO - Using alternate column: 'Age of Mother'
+2026-03-24 04:03:54,118 - INFO - Valid age records: 363,881
+2026-03-24 04:03:57,471 - ERROR - Analysis failed: 'Text' object has no attribute 'set_bold'
