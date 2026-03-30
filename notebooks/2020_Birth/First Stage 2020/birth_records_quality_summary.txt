@@ -1,0 +1,42 @@
+================================================================================
+BIRTH RECORDS DATA QUALITY ASSESSMENT (IUPAC Compliant)
+Generated: 2026-03-29 12:03:47
+================================================================================
+
+Dataset Overview:
+  • Total birth records: 301,712
+  • Total variables: 18
+  • Columns with missing data: 7
+  • Total missing values: 89,748
+  • Overall missing percentage: 1.65%
+
+Record Completeness:
+  • Complete records (no missing): 261,562 (86.69%)
+  • Incomplete records (≥1 missing): 40,150 (13.31%)
+  • Average missing per record: 0.3
+  • Maximum missing in single record: 6
+
+Top 10 Variables with Most Missing Data:
+  1. Birth_Weight(grams): 33,542 (11.1%)
+  2. Birth_Order2.0: 27,218 (9.0%)
+  3. Birth_Order: 27,218 (9.0%)
+  4. Race_of_Father: 1,231 (0.4%)
+  5. Race_of_Mother: 520 (0.2%)
+  6. Marital_Status: 17 (0.0%)
+  7. Gender: 2 (0.0%)
+  8. Registered_Year: 0 (0.0%)
+  9. Registered_Month: 0 (0.0%)
+  10. Registered_District: 0 (0.0%)
+
+================================================================================
+Files Generated:
+  1. 01_missing_values_analysis.xlsx - Excel report with multiple sheets:
+     - Missing by Variable: Missing values per variable
+     - Summary: Overall statistics
+     - Complete Records: 261,562 fully completed birth records
+     - Incomplete Records: 40,150 records with missing values
+     - Row Missing Summary: Distribution of missing values across records
+  2. 01_birth_records_quality_report.docx - Comprehensive Word report
+  3. missing_values_by_variable.png - IUPAC compliant visualization
+  4. row_missing_distribution.png - Row-level missing distribution
+  5. birth_records_quality_summary.txt - This summary file
