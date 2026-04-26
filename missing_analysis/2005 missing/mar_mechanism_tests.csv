@@ -1,0 +1,11 @@
+Missing variable,Tested against,Predictor type,Test,Statistic,df,p-value,Significant association
+Birth_Order,Marital_Status,Categorical,Chi-square,11.723,1,< 0.001,YES — MAR consistent
+Birth_Order,Race_of_Mother,Categorical,Chi-square,15686.754,11,< 0.001,YES — MAR consistent
+Birth_Order,Gender,Categorical,Chi-square,1.73,1,0.1883,No
+Birth_Order,Hospital or Not,Categorical,Chi-square,279.404,1,< 0.001,YES — MAR consistent
+Birth_Order,Age of Mother,Continuous,Mann-Whitney U,24826511.5,—,< 0.001,YES — MAR consistent
+Race_of_Mother,Marital_Status,Categorical,Chi-square,0.416,1,0.5189,No
+Race_of_Mother,Gender,Categorical,Chi-square,3.003,1,0.0831,No
+Race_of_Mother,Hospital or Not,Categorical,Chi-square,0.064,1,0.8005,No
+Race_of_Mother,Birth_Order,Categorical,Chi-square,11.844,8,0.1583,No
+Race_of_Mother,Age of Mother,Continuous,Mann-Whitney U,4472180.0,—,0.9639,No
