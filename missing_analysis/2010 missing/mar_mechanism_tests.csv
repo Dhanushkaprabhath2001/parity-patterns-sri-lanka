@@ -1,0 +1,21 @@
+Missing variable,Tested against,Predictor type,Test,Statistic,df,p-value,Significant association
+Birth_Weight(grams),Marital_Status,Categorical,Chi-square,495.238,1,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Race_of_Mother,Categorical,Chi-square,1178.55,11,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Gender,Categorical,Chi-square,8.226,1,0.0041,YES — MAR consistent
+Birth_Weight(grams),Hospital or Not,Categorical,Chi-square,5949.936,1,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Multiple_Birth_Status,Categorical,Chi-square,11.368,1,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Birth_Order,Categorical,Chi-square,2322.865,8,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Age of Mother,Continuous,Mann-Whitney U,7276428214.5,—,0.0040,YES — MAR consistent
+Race_of_Father,Marital_Status,Categorical,Chi-square,28933.41,1,< 0.001,YES — MAR consistent
+Race_of_Father,Race_of_Mother,Categorical,Chi-square,491.393,11,< 0.001,YES — MAR consistent
+Race_of_Father,Gender,Categorical,Chi-square,2.534,1,0.1114,No
+Race_of_Father,Hospital or Not,Categorical,Chi-square,241.5,1,< 0.001,YES — MAR consistent
+Race_of_Father,Multiple_Birth_Status,Categorical,Chi-square,0.0,1,1.0000,No
+Race_of_Father,Birth_Order,Categorical,Chi-square,112.237,8,< 0.001,YES — MAR consistent
+Race_of_Father,Age of Mother,Continuous,Mann-Whitney U,83715707.0,—,< 0.001,YES — MAR consistent
+Birth_Order,Marital_Status,Categorical,Chi-square,0.0,1,1.0000,No
+Birth_Order,Race_of_Mother,Categorical,Chi-square,40.999,11,< 0.001,YES — MAR consistent
+Birth_Order,Gender,Categorical,Chi-square,0.0,1,1.0000,No
+Birth_Order,Hospital or Not,Categorical,Chi-square,49.481,1,< 0.001,YES — MAR consistent
+Birth_Order,Multiple_Birth_Status,Categorical,Chi-square,0.0,1,1.0000,No
+Birth_Order,Age of Mother,Continuous,Mann-Whitney U,5493184.5,—,< 0.001,YES — MAR consistent

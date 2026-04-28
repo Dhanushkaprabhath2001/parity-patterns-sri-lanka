@@ -1,0 +1,19 @@
+Variable,Data Type,N missing,N present,Missing (%),Severity
+Birth_Weight(grams),float64,45303,318578,12.4499,Moderate (5–15%) — examine pattern
+Race_of_Father,str,531,363350,0.1459,Low (< 5%) — listwise deletion safe
+Birth_Order,str,16,363865,0.0044,Low (< 5%) — listwise deletion safe
+Registered_Year,int64,0,363881,0.0,Complete (0%)
+Registered_Month2.0,int64,0,363881,0.0,Complete (0%)
+Registered_Month,str,0,363881,0.0,Complete (0%)
+Birth_Month.0,int64,0,363881,0.0,Complete (0%)
+Registered_District_2.0,int64,0,363881,0.0,Complete (0%)
+Registered_District,str,0,363881,0.0,Complete (0%)
+Birh_Year,int64,0,363881,0.0,Complete (0%)
+Hospital or Not,str,0,363881,0.0,Complete (0%)
+Gender,str,0,363881,0.0,Complete (0%)
+Birth_Month,str,0,363881,0.0,Complete (0%)
+Multiple_Birth_Status,str,0,363881,0.0,Complete (0%)
+Age of Mother,float64,0,363881,0.0,Complete (0%)
+Marital_Status,str,0,363881,0.0,Complete (0%)
+District_of_Mother,str,0,363881,0.0,Complete (0%)
+Race_of_Mother,str,0,363881,0.0,Complete (0%)
