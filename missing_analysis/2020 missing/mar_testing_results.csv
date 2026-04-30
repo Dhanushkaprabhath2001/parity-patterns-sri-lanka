@@ -1,0 +1,50 @@
+Missing variable,Tested against,Predictor type,Test,Statistic,df,p-value,Significant association
+Birth_Weight(grams),Marital_Status,Categorical,Chi-square,3654.119,1,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Race_of_Mother,Categorical,Chi-square,15897.773,5,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Gender,Categorical,Chi-square,7.808,1,0.0052,YES — MAR consistent
+Birth_Weight(grams),Hospital or Not,Categorical,Chi-square,1613.323,1,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Multiple_Birth_Status,Categorical,Chi-square,57.681,4,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Birth_Order,Categorical,Chi-square,2838.663,8,< 0.001,YES — MAR consistent
+Birth_Weight(grams),Age of Mother,Continuous,Mann-Whitney U,4261400693.0,—,< 0.001,YES — MAR consistent
+Birth_Order2.0,Marital_Status,Categorical,Chi-square,1313.511,1,< 0.001,YES — MAR consistent
+Birth_Order2.0,Race_of_Mother,Categorical,Chi-square,32524.74,5,< 0.001,YES — MAR consistent
+Birth_Order2.0,Gender,Categorical,Chi-square,3.609,1,0.0575,No
+Birth_Order2.0,Hospital or Not,Categorical,Chi-square,601.292,1,< 0.001,YES — MAR consistent
+Birth_Order2.0,Multiple_Birth_Status,Categorical,Chi-square,126.351,4,< 0.001,YES — MAR consistent
+Birth_Order2.0,Age of Mother,Continuous,Mann-Whitney U,3755946193.0,—,0.0162,YES — MAR consistent
+Birth_Order,Marital_Status,Categorical,Chi-square,1313.511,1,< 0.001,YES — MAR consistent
+Birth_Order,Race_of_Mother,Categorical,Chi-square,32524.74,5,< 0.001,YES — MAR consistent
+Birth_Order,Gender,Categorical,Chi-square,3.609,1,0.0575,No
+Birth_Order,Hospital or Not,Categorical,Chi-square,601.292,1,< 0.001,YES — MAR consistent
+Birth_Order,Multiple_Birth_Status,Categorical,Chi-square,126.351,4,< 0.001,YES — MAR consistent
+Birth_Order,Age of Mother,Continuous,Mann-Whitney U,3755946193.0,—,0.0162,YES — MAR consistent
+Race_of_Father,Marital_Status,Categorical,Chi-square,16380.757,1,< 0.001,YES — MAR consistent
+Race_of_Father,Race_of_Mother,Categorical,Chi-square,183.575,5,< 0.001,YES — MAR consistent
+Race_of_Father,Gender,Categorical,Chi-square,5.31,1,0.0212,YES — MAR consistent
+Race_of_Father,Hospital or Not,Categorical,Chi-square,240.984,1,< 0.001,YES — MAR consistent
+Race_of_Father,Multiple_Birth_Status,Categorical,Chi-square,3.212,4,0.5230,No
+Race_of_Father,Birth_Order,Categorical,Chi-square,186.902,8,< 0.001,YES — MAR consistent
+Race_of_Father,Age of Mother,Continuous,Mann-Whitney U,157972994.5,—,< 0.001,YES — MAR consistent
+Race_of_Mother,Marital_Status,Categorical,Chi-square,65.116,1,< 0.001,YES — MAR consistent
+Race_of_Mother,Gender,Categorical,Chi-square,1.506,1,0.2198,No
+Race_of_Mother,Hospital or Not,Categorical,Chi-square,3.604,1,0.0576,No
+Race_of_Mother,Multiple_Birth_Status,Categorical,Chi-square,32.351,4,< 0.001,YES — MAR consistent
+Race_of_Mother,Birth_Order,Categorical,Chi-square,3.763,8,0.8779,No
+Race_of_Mother,Age of Mother,Continuous,Mann-Whitney U,81036189.0,—,< 0.001,YES — MAR consistent
+Age of Mother,Marital_Status,Categorical,Chi-square,1452.657,1,< 0.001,YES — MAR consistent
+Age of Mother,Race_of_Mother,Categorical,Chi-square,36.109,5,< 0.001,YES — MAR consistent
+Age of Mother,Gender,Categorical,Chi-square,0.152,1,0.6966,No
+Age of Mother,Hospital or Not,Categorical,Chi-square,261.805,1,< 0.001,YES — MAR consistent
+Age of Mother,Multiple_Birth_Status,Categorical,Chi-square,1.557,4,0.8165,No
+Age of Mother,Birth_Order,Categorical,Chi-square,64.255,8,< 0.001,YES — MAR consistent
+Marital_Status,Race_of_Mother,Categorical,Chi-square,3.825,5,0.5748,No
+Marital_Status,Gender,Categorical,Chi-square,0.346,1,0.5566,No
+Marital_Status,Hospital or Not,Categorical,Chi-square,4.841,1,0.0278,YES — MAR consistent
+Marital_Status,Multiple_Birth_Status,Categorical,Chi-square,0.172,4,0.9965,No
+Marital_Status,Birth_Order,Categorical,Chi-square,2.774,8,0.9477,No
+Gender,Marital_Status,Categorical,Chi-square,0.0,1,1.0000,No
+Gender,Race_of_Mother,Categorical,Chi-square,0.891,5,0.9709,No
+Gender,Hospital or Not,Categorical,Chi-square,0.0,1,1.0000,No
+Gender,Multiple_Birth_Status,Categorical,Chi-square,0.02,4,0.9999,No
+Gender,Birth_Order,Categorical,Chi-square,3.526,8,0.8971,No
+Gender,Age of Mother,Continuous,Mann-Whitney U,380879.5,—,0.5188,No

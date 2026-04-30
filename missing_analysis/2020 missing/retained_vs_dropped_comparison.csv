@@ -1,0 +1,8 @@
+Variable,Type,Retained (mean),Dropped (mean),Retained (median),Dropped (median),Test,p-value,Different?
+Age of Mother,Continuous,29.12,29.25,29.0,29.0,Mann-Whitney U,0.0066,YES
+Marital_Status,Categorical,mode: Married,mode: Married,—,—,Chi-square,< 0.001,YES
+Race_of_Mother,Categorical,mode: Sinhalese,mode: Srilankan Tamil,—,—,Chi-square,< 0.001,YES
+Gender,Categorical,mode: Male,mode: Male,—,—,Chi-square,0.0464,YES
+Hospital or Not,Categorical,mode: Hospital,mode: Hospital,—,—,Chi-square,< 0.001,YES
+Multiple_Birth_Status,Categorical,mode: Singleton,mode: Singleton,—,—,Chi-square,< 0.001,YES
+Birth_Order,Categorical,mode: First,mode: First,—,—,Chi-square,0.0550,No
