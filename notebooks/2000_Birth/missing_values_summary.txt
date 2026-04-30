@@ -1,18 +1,18 @@
 ================================================================================
 MISSING VALUES ANALYSIS SUMMARY (IUPAC Compliant)
-Generated: 2026-04-24 06:07:34
+Generated: 2026-04-30 17:55:54
 ================================================================================
 
 Dataset Overview:
-  • Total rows: 347,749
+  • Total rows: 347,738
   • Total columns: 14
   • Columns with missing data: 2
-  • Total missing values: 312
+  • Total missing values: 309
   • Overall missing percentage: 0.01%
 
 Top 10 Variables with Most Missing Data:
   1. Birth_Order: 221 (0.1%)
-  2. Race_of_Mother: 91 (0.0%)
+  2. Race_of_Mother: 88 (0.0%)
   3. Registered_District: 0 (0.0%)
   4. Birh_Year_2.0: 0 (0.0%)
   5. Registered_Year: 0 (0.0%)
