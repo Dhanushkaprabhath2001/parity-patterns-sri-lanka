@@ -1,0 +1,15 @@
+Variable,Data Type,N missing,N present,Missing (%),Severity
+Birth_Order,str,221,347528,0.0636,Low (< 5%) — listwise deletion safe
+Race_of_Mother,str,91,347658,0.0262,Low (< 5%) — listwise deletion safe
+Registered_District,str,0,347749,0.0,Complete (0%)
+Birh_Year_2.0,int64,0,347749,0.0,Complete (0%)
+Registered_Year,int64,0,347749,0.0,Complete (0%)
+Registered_Month,str,0,347749,0.0,Complete (0%)
+Birth_Month,str,0,347749,0.0,Complete (0%)
+Birh_Year,int64,0,347749,0.0,Complete (0%)
+Hospital or Not,str,0,347749,0.0,Complete (0%)
+Gender,str,0,347749,0.0,Complete (0%)
+Birth_Order 2.0,int64,0,347749,0.0,Complete (0%)
+Age of Mother,float64,0,347749,0.0,Complete (0%)
+Marital_Status,str,0,347749,0.0,Complete (0%)
+District_of_Mother,str,0,347749,0.0,Complete (0%)

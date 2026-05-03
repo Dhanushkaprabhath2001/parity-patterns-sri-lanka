@@ -1,40 +1,40 @@
 ================================================================================
 BIRTH RECORDS DATA QUALITY ASSESSMENT (IUPAC Compliant)
-Generated: 2026-04-01 18:30:12
+Generated: 2026-04-30 23:38:57
 ================================================================================
 
 Dataset Overview:
   • Total birth records: 336,097
-  • Total variables: 18
-  • Columns with missing data: 3
-  • Total missing values: 33,826
-  • Overall missing percentage: 0.56%
+  • Total variables: 17
+  • Columns with missing data: 17
+  • Total missing values: 34,805
+  • Overall missing percentage: 0.61%
 
 Record Completeness:
-  • Complete records (no missing): 302,313 (89.95%)
-  • Incomplete records (≥1 missing): 33,784 (10.05%)
+  • Complete records (no missing): 302,278 (89.94%)
+  • Incomplete records (≥1 missing): 33,819 (10.06%)
   • Average missing per record: 0.1
-  • Maximum missing in single record: 2
+  • Maximum missing in single record: 17
 
 Top 10 Variables with Most Missing Data:
-  1. Birth_Weight(grams): 33,604 (10.0%)
-  2. Race_of_Father: 221 (0.1%)
-  3. Birth_Order: 1 (0.0%)
-  4. Registered_Year: 0 (0.0%)
-  5. Registered_Month: 0 (0.0%)
-  6. Registered_Year 2.0: 0 (0.0%)
-  7. Birth_Year_2.0: 0 (0.0%)
-  8. Registered_District: 0 (0.0%)
-  9. Birh_Year: 0 (0.0%)
-  10. Birth_Month: 0 (0.0%)
+  1. Birth_Weight(grams): 33,639 (10.0%)
+  2. Race_of_Father: 280 (0.1%)
+  3. Birth_Order: 60 (0.0%)
+  4. Registered_Year: 59 (0.0%)
+  5. Registered_Month: 59 (0.0%)
+  6. Birth_Month: 59 (0.0%)
+  7. Registered_District: 59 (0.0%)
+  8. Birh_Year: 59 (0.0%)
+  9. Birh_Year 2.0: 59 (0.0%)
+  10. Twin: 59 (0.0%)
 
 ================================================================================
 Files Generated:
   1. 01_missing_values_analysis.xlsx - Excel report with multiple sheets:
      - Missing by Variable: Missing values per variable
      - Summary: Overall statistics
-     - Complete Records: 302,313 fully completed birth records
-     - Incomplete Records: 33,784 records with missing values
+     - Complete Records: 302,278 fully completed birth records
+     - Incomplete Records: 33,819 records with missing values
      - Row Missing Summary: Distribution of missing values across records
   2. 01_birth_records_quality_report.docx - Comprehensive Word report
   3. missing_values_by_variable.png - IUPAC compliant visualization

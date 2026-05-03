@@ -1,0 +1,15 @@
+SRI LANKA CRVS 2000 — MISSING DATA ANALYSIS RESULTS
+============================================================
+
+1. UNIVARIATE MISSINGNESS
+----------------------------------------
+            Variable          Column  N missing  N present  Missing (%)                              Severity
+Birth Order (Parity)     Birth_Order        221     347528       0.0636 Low (< 5.0%) — listwise deletion safe
+      Race of Mother  Race_of_Mother         91     347658       0.0262 Low (< 5.0%) — listwise deletion safe
+      Marital Status  Marital_Status          0     347749       0.0000                         Complete (0%)
+       Age of Mother   Age of Mother          0     347749       0.0000                         Complete (0%)
+        Sex of Child          Gender          0     347749       0.0000                         Complete (0%)
+   Place of Delivery Hospital or Not          0     347749       0.0000                         Complete (0%)
+
+2. LITTLE'S MCAR TEST
+----------------------------------------

@@ -1,0 +1,6 @@
+Variable,Type,Retained (mean),Dropped (mean),Retained (median),Dropped (median),Test,p-value,Different?
+Marital_Status,Categorical,mode: Married,mode: Married,—,—,Chi-square,1.0000,No
+Race_of_Mother,Categorical,mode: Sinhalese,mode: Srilankan Tamil,—,—,Chi-square,0.6512,No
+Gender,Categorical,mode: Male,mode: Female,—,—,Chi-square,0.9810,No
+Hospital or Not,Categorical,mode: Hospital,mode: Hospital,—,—,Chi-square,1.0000,No
+Multiple_Birth_Status,Categorical,mode: Singleton,mode: Singleton,—,—,Chi-square,0.9997,No
