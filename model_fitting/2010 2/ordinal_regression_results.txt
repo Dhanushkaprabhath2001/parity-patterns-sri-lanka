@@ -3,8 +3,8 @@
 Dep. Variable:                      y   Log-Likelihood:            -3.4671e+05
 Model:                   OrderedModel   AIC:                         6.935e+05
 Method:            Maximum Likelihood   BIC:                         6.938e+05
-Date:                Sun, 03 May 2026                                         
-Time:                        18:26:04                                         
+Date:                Wed, 06 May 2026                                         
+Time:                        04:11:25                                         
 No. Observations:              318288                                         
 Df Residuals:                  318260                                         
 Df Model:                          20                                         
@@ -27,7 +27,7 @@ race_mother_Sinhalese              -0.6388      0.474     -1.349      0.177     
 race_mother_Srilankan Chetty       -0.0602      0.865     -0.070      0.945      -1.756       1.636
 race_mother_Srilankan Moor          0.2495      0.474      0.527      0.598      -0.679       1.178
 race_mother_Srilankan Tamil        -0.1112      0.474     -0.235      0.814      -1.040       0.817
-child_sex_Male                     -0.0189      0.007     -2.696      0.007      -0.033      -0.005
+Gender _Male                       -0.0189      0.007     -2.696      0.007      -0.033      -0.005
 Hospital or Not_Not In Hospital     0.1908      0.030      6.298      0.000       0.131       0.250
 multiple_birth_Triplets             0.0312      0.292      0.107      0.915      -0.542       0.604
 Birth_Weight(grams)                 0.0002   7.33e-06     25.214      0.000       0.000       0.000
