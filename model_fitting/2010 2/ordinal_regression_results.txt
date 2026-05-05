@@ -4,7 +4,7 @@ Dep. Variable:                      y   Log-Likelihood:            -3.4671e+05
 Model:                   OrderedModel   AIC:                         6.935e+05
 Method:            Maximum Likelihood   BIC:                         6.938e+05
 Date:                Wed, 06 May 2026                                         
-Time:                        04:11:25                                         
+Time:                        04:22:07                                         
 No. Observations:              318288                                         
 Df Residuals:                  318260                                         
 Df Model:                          20                                         
